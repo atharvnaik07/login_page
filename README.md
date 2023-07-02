@@ -46,10 +46,6 @@ To run this project locally, follow these steps:
 
 ![image](https://github.com/atharvnaik07/login_page/assets/114814921/10f004f5-01f8-45b8-9d3c-30e41cf013d0)
 
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-username/login-page).
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
